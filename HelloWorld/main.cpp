@@ -11,7 +11,8 @@ using namespace std;
 
 int main()
 {
-    // insert code here...
-    cout << "Hello, World!\n";
-    return 0;
+    cout << "Hello World" << endl;
+    cout << "Goodbye World" << endl;
+    return 0 ;
+    
 }
